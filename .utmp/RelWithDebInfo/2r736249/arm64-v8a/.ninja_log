@@ -1,0 +1,12 @@
+# ninja log v5
+221	2066	7717084924336508	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	f4d536cbd49f0bc7
+2071	2817	7717084929581396	C:/Users/mortu/spaceinvadersclone/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2r736249/obj/arm64-v8a/libswappywrapper.so	2dbd422a1c06b7d8
+81	4782	7717084951842577	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	19c2760cf5fc44f4
+27	4945	7717084953014177	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	7d5af421fcc03e50
+133	5008	7717084953190255	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	1739abd271553839
+100	5053	7717084954113800	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	838be0fc42e54410
+46	5090	7717084954879984	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	8d1b971df0344835
+165	5213	7717084955747902	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	5950d237c96f65f1
+64	5707	7717084961009547	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	64244190b672a8d2
+3	6018	7717084963886372	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	5b634abed497171
+6019	6418	7717084967926652	C:/Users/mortu/spaceinvadersclone/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2r736249/obj/arm64-v8a/libgame.so	cf13ec8f3af1c0f7
